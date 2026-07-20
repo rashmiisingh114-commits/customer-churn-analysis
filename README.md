@@ -44,9 +44,15 @@ Created the following business features:
 - Monthly Churn Trend
 - Churn by Plan & State
 - Correlation Heatmap
-- Pair Plot
+- HeatMap
+  <img width="629" height="482" alt="01_heatmap png" src="https://github.com/user-attachments/assets/74573711-a1b3-4ec4-bdbc-452c07423a1c" />
+
 - Box Plots
+- <img width="738" height="405" alt="03_boxplot_tenure png" src="https://github.com/user-attachments/assets/e0a9296c-7bea-41ab-9bb0-552dd26bc621" />
+
 - Catplot
+  <img width="936" height="301" alt="02_pairplot png" src="https://github.com/user-attachments/assets/508ad38a-3d76-4d03-ac1f-cb6505078785" />
+
 
 ## Key Insights
 - Churn Rate: **28.6%**
