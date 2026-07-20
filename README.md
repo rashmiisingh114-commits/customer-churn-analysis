@@ -43,12 +43,16 @@ Created the following business features:
 ## Visualizations
 - Monthly Churn Trend
 - Churn by Plan & State
+<img width="940" height="307" alt="04_churn_state png" src="https://github.com/user-attachments/assets/cf90608c-66de-492e-a7e6-7f6ebce5d92f" />
+
+  
 - Correlation Heatmap
-- HeatMap
   <img width="629" height="482" alt="01_heatmap png" src="https://github.com/user-attachments/assets/74573711-a1b3-4ec4-bdbc-452c07423a1c" />
 
+
 - Box Plots
-- <img width="738" height="405" alt="03_boxplot_tenure png" src="https://github.com/user-attachments/assets/e0a9296c-7bea-41ab-9bb0-552dd26bc621" />
+ <img width="738" height="405" alt="03_boxplot_tenure png" src="https://github.com/user-attachments/assets/e0a9296c-7bea-41ab-9bb0-552dd26bc621" />
+
 
 - Catplot
   <img width="936" height="301" alt="02_pairplot png" src="https://github.com/user-attachments/assets/508ad38a-3d76-4d03-ac1f-cb6505078785" />
